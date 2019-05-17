@@ -1,0 +1,18 @@
+body{background-color: rgb(50 50 50);}
+h1 {
+color: yellow;
+font-weight: bold;
+text-align: center;
+}
+body{
+	background: #c7b39b url(http://fotosale.ua/images/products/22/products.22025.1.b.jpg)
+	
+	}
+h2 {
+	color: red;
+font-weight: bold;
+text-align: center;
+}
+.class {
+	color:green;
+}
